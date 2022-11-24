@@ -1,0 +1,103 @@
+body{
+    background-color: lightsalmon;
+    background-image: url("https://thumbs.gfycat.com/DisloyalUnhealthyFieldspaniel-max-1mb.gif");
+    text-align: center;
+    color: aliceblue;  
+}
+img{
+  border-radius: 20px;
+  box-shadow: 0 0 10px white;
+}
+#gauva{
+  display:block;
+  justify-content: center;
+  align-items: center;
+  margin-left: 500px;
+}
+button{
+  background-color: lightgrey;
+  border-radius: 30px;
+  height: 50px;
+  width: 100px;
+}
+
+/* .first{ 
+    background-color: aquamarine;
+    display: center;
+    justify-content: center;
+    align-items: center;   
+}*/
+
+/* .second{
+    background-color: lightpink;
+}
+.third{
+ background-color: lightgreen;
+}
+.fourth{
+    background-color: skyblue;
+}
+.fifth{
+    background-color: brown;
+}
+.sixth{
+    background-color: bisque;
+} */
+#panel, #flip {
+    padding: 5px;
+    text-align: center;
+    background-color: grey;
+    border: solid 1px #c3c3c3;
+  }
+  
+  #panel {
+    padding: 50px;
+  }
+  
+  .okay{
+    width: 200px;
+    height: 300px;
+    position: relative;
+  }
+
+  
+ /* #slide, #stop{
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+}  */
+.qwe, .qaz {
+    padding: 5px;
+    font-size: 18px;
+    text-align: center;
+    background-color: #555;
+    color: white;
+    border: solid 1px #666;
+    border-radius: 3px;
+  }
+  
+  .qaz{
+    padding: 50px;
+    display: none;
+  }
+  .important {
+    font-weight: bold;
+    font-size: xx-large;
+  }
+  
+  .blue {
+    color: blue;
+  }
+  #z1{
+  height: 150px;
+  width: 300px;
+  padding: 10px;
+  margin: 3px;
+  border: 1px solid blue;
+  background-color: lightblue;
+  margin-left: 500px;
+  }
